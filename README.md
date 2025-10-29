@@ -8,4 +8,4 @@ This project is intended to be run in **Google Colab**.
 ### Quick start (Colab)
 1. Open a new Google Colab notebook.
 2. Paste the code from `sinfante_Intro_AI_p2_pt2 code.ipynb`.
-3. Run every code cell or click "Runtime" -> "Run all"
+3. Run all cells sequentially or select Runtime → Run all in the Colab menu.
